@@ -1,4 +1,4 @@
-# Jordi Gallardo - 1ASIXcD
+# Jordi Gallardo - 1ASIXcD Prueba
 
 # Solicitar la edad del usuario
 edat = int(input("¿Cuántos años tienes? "))
