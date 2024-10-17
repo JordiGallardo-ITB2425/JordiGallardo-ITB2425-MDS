@@ -1,0 +1,993 @@
+<incidencias>
+    <incidencia>
+        <persona id="persona1">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Juan Gimenez
+            </nombreapellidos>
+            <email>
+                juan@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 8:37:30
+            </marcatiempo>
+            <fechaincidencia>
+                04/11/2024 11:11:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Oficina 1
+            </departamento>
+            <equipoafectado>
+                Ordenador
+            </equipoafectado>
+            <descripcionproblema>
+                "No se enciende la pantalla"
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona2">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Pol Marquez
+            </nombreapellidos>
+            <email>
+                PolMarquez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 8:43:22
+            </marcatiempo>
+            <fechaincidencia>
+                11/04/2020 14:15:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Sistema de Fichaje
+            </tipoincidencia>
+            <departamento>
+                Taller
+            </departamento>
+            <equipoafectado>
+                Pantalla
+            </equipoafectado>
+            <descripcionproblema>
+                No se enciende la pantalla
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona3">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Jason Guiterrez
+            </nombreapellidos>
+            <email>
+                JasonGuiterrez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 8:43:55
+            </marcatiempo>
+            <fechaincidencia>
+                04/10/2024 8:30:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Servidores
+            </departamento>
+            <equipoafectado>
+                Disipadores de calor
+            </equipoafectado>
+            <descripcionproblema>
+                Falla el disipador
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                Lo desconozco
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona4">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Lucas Sanches
+            </nombreapellidos>
+            <email>
+                lucassanches@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 8:44:04
+            </marcatiempo>
+            <fechaincidencia>
+                20/06/2005 20:45:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Petición de cambio)
+            </tipoincidencia>
+            <departamento>
+                Oficina Programación
+            </departamento>
+            <equipoafectado>
+                23DFS14
+            </equipoafectado>
+            <descripcionproblema>
+                No funciona el Maouse
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Urgente">
+                Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                NO
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona5">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Andres Perez
+            </nombreapellidos>
+            <email>
+                andresparez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:07:42
+            </marcatiempo>
+            <fechaincidencia>
+                05/06/2010 12:35:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Oficina de RRHH
+            </departamento>
+            <equipoafectado>
+                No enciende el equipo
+            </equipoafectado>
+            <descripcionproblema>
+                no enciende la torre
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Urgente">
+                Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                SI, pero sigue con el problema
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona6">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Alberto Suarez
+            </nombreapellidos>
+            <email>
+                AlbertoSuarez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:08:07
+            </marcatiempo>
+            <fechaincidencia>
+                06/12/2024 11:11:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Sistema de Fichaje
+            </tipoincidencia>
+            <departamento>
+                Oficina 1
+            </departamento>
+            <equipoafectado>
+                Falla el Raton
+            </equipoafectado>
+            <descripcionproblema>
+                No va el raton
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Urgente">
+                Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona7">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Susana Gimenez
+            </nombreapellidos>
+            <email>
+                SusanaGimenez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:09:55
+            </marcatiempo>
+            <fechaincidencia>
+                04/06/2023 2:12:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Oficina 5
+            </departamento>
+            <equipoafectado>
+                Teclado
+            </equipoafectado>
+            <descripcionproblema>
+                No funciona la tecla enter
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona8">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Rosa Sanchez
+            </nombreapellidos>
+            <email>
+                RosaSanchez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:10:14
+            </marcatiempo>
+            <fechaincidencia>
+                03/10/2024 9:07:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Red
+            </tipoincidencia>
+            <departamento>
+                Oficina
+            </departamento>
+            <equipoafectado>
+                El switch
+            </equipoafectado>
+            <descripcionproblema>
+                El switch no funciona
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona9">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Kiko Matamoros
+            </nombreapellidos>
+            <email>
+                Kikomatamoros@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:11:43
+            </marcatiempo>
+            <fechaincidencia>
+                20/02/2005 9:15:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Red
+            </tipoincidencia>
+            <departamento>
+                Oficina 1
+            </departamento>
+            <equipoafectado>
+                Ordenador
+            </equipoafectado>
+            <descripcionproblema>
+                Falla la red dando lagazos
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona10">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Jeremy Parucho
+            </nombreapellidos>
+            <email>
+                jeremyparucho@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:12:21
+            </marcatiempo>
+            <fechaincidencia>
+                30/12/2009 23:45:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Red
+            </tipoincidencia>
+            <departamento>
+                Oficina administracion
+            </departamento>
+            <equipoafectado>
+                23JG54F
+            </equipoafectado>
+            <descripcionproblema>
+                No conecta a la red
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Urgente">
+                Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                no
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona11">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Pablo Fernández
+            </nombreapellidos>
+            <email>
+                PabloFernandez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:13:16
+            </marcatiempo>
+            <fechaincidencia>
+                02/09/2023 9:30:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Caida Total
+            </tipoincidencia>
+            <departamento>
+                Edificio 3
+            </departamento>
+            <equipoafectado>
+                Todos los equipos conectados a la red
+            </equipoafectado>
+            <descripcionproblema>
+                Ha caído la red
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona12">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Patricio Perez
+            </nombreapellidos>
+            <email>
+                patricioperez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:13:50
+            </marcatiempo>
+            <fechaincidencia>
+                16/04/2024 20:20:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Dispositivo Visualización (Pantalla, Proyector,...)
+            </tipoincidencia>
+            <departamento>
+                Oficina 5
+            </departamento>
+            <equipoafectado>
+                La pantalla
+            </equipoafectado>
+            <descripcionproblema>
+                La pantalla tiene una linea en medio
+            </descripcionproblema>
+            <imagen>
+                https://formfacade.com/uploaded/1FAIpQLSdyTEsrZ2MmTw2sTyOo80NJtrdXrPjCOMdBXsAwzz86MB_mRA/-O8LMlrwSSjH0DRrF8E7/859372327/images.jpeg
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona13">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Juan Jose
+            </nombreapellidos>
+            <email>
+                juanjose@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:15:05
+            </marcatiempo>
+            <fechaincidencia>
+                28/12/2015 11:22:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Programa (Actualización / pedir cambio /requerimiento )
+            </tipoincidencia>
+            <departamento>
+                Oficina de consulta
+            </departamento>
+            <equipoafectado>
+                3454dvg
+            </equipoafectado>
+            <descripcionproblema>
+                Actualizar el programa
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                no
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona14">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Laura Todoroki
+            </nombreapellidos>
+            <email>
+                LauraTodoroki@outlook.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:15:52
+            </marcatiempo>
+            <fechaincidencia>
+                20/11/2023 20:45:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Sistema de Fichaje
+            </tipoincidencia>
+            <departamento>
+                Oficina 2
+            </departamento>
+            <equipoafectado>
+                Fichaje
+            </equipoafectado>
+            <descripcionproblema>
+                No me ficha
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona15">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Victor Toledo
+            </nombreapellidos>
+            <email>
+                victortoledo@hotmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:16:48
+            </marcatiempo>
+            <fechaincidencia>
+                05/12/2005 6:05:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Dispositivo Visualización (Pantalla, Proyector,...)
+            </tipoincidencia>
+            <departamento>
+                oficina de reuniones
+            </departamento>
+            <equipoafectado>
+                56s28de
+            </equipoafectado>
+            <descripcionproblema>
+                Cambiar el proyector
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                NO
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona16">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Tina Hernandez
+            </nombreapellidos>
+            <email>
+                Tinahernandez@outlook.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:17:08
+            </marcatiempo>
+            <fechaincidencia>
+                07/03/2000 12:59:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Programa (Actualización / pedir cambio /requerimiento )
+            </tipoincidencia>
+            <departamento>
+                Oficina 2
+            </departamento>
+            <equipoafectado>
+                PC
+            </equipoafectado>
+            <descripcionproblema>
+                Me pide actualizacion de sistema
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona17">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Pedro Sanchez
+            </nombreapellidos>
+            <email>
+                Pedrosanchez@outlook.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:18:16
+            </marcatiempo>
+            <fechaincidencia>
+                02/06/2024 2:04:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Sistema de Fichaje
+            </tipoincidencia>
+            <departamento>
+                Oficina 5
+            </departamento>
+            <equipoafectado>
+                Maquina FIchaje
+            </equipoafectado>
+            <descripcionproblema>
+                No ficha
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona18">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                RobertoJimenez
+            </nombreapellidos>
+            <email>
+                RobertoJimenez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:18:22
+            </marcatiempo>
+            <fechaincidencia>
+                05/11/2023 8:00:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Programa (Actualización / pedir cambio /requerimiento )
+            </tipoincidencia>
+            <departamento>
+                Oficina 33
+            </departamento>
+            <equipoafectado>
+                Ordenador de la oficina 33
+            </equipoafectado>
+            <descripcionproblema>
+                Sistema operativo windows xp desactualizado
+            </descripcionproblema>
+            <imagen>
+                https://formfacade.com/uploaded/1FAIpQLSdyTEsrZ2MmTw2sTyOo80NJtrdXrPjCOMdBXsAwzz86MB_mRA/-O8LMlrwSSjH0DRrF8E7/859372327/windows-xp.jpg
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona19">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Kristian Serrano
+            </nombreapellidos>
+            <email>
+                kristianserrano@yahoot.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:19:10
+            </marcatiempo>
+            <fechaincidencia>
+                10/05/2006 5:17:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Oficina de RRHH
+            </departamento>
+            <equipoafectado>
+                655DEEV
+            </equipoafectado>
+            <descripcionproblema>
+                No enciende la pc
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                no
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona20">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Victor Naranjo
+            </nombreapellidos>
+            <email>
+                Victornaranjo@outlook.es
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:20:16
+            </marcatiempo>
+            <fechaincidencia>
+                09/05/2000 6:15:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Programas (fallos)
+            </tipoincidencia>
+            <departamento>
+                Oficina 5
+            </departamento>
+            <equipoafectado>
+                Ordenador Windows xp
+            </equipoafectado>
+            <descripcionproblema>
+                No se me abre el paint
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona21">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Rigoberto Gomez
+            </nombreapellidos>
+            <email>
+                Rigomez@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:20:57
+            </marcatiempo>
+            <fechaincidencia>
+                16/12/2023 9:33:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Sistema de Fichaje
+            </tipoincidencia>
+            <departamento>
+                Oficina 1
+            </departamento>
+            <equipoafectado>
+                Fichaje
+            </equipoafectado>
+            <descripcionproblema>
+                No ficha
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Poco Urgente">
+                Poco Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona22">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Esperanza Correa
+            </nombreapellidos>
+            <email>
+                esperanzacorrea@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:21:49
+            </marcatiempo>
+            <fechaincidencia>
+                12/03/2023 15:30:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Red
+            </tipoincidencia>
+            <departamento>
+                Oficina 3
+            </departamento>
+            <equipoafectado>
+                Router
+            </equipoafectado>
+            <descripcionproblema>
+                El router no funciona
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Muy Urgente">
+                Muy Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <persona id="persona23">
+            <protecciondatos>
+                He leído la información relativa sobre la protección de datos
+            </protecciondatos>
+            <nombreapellidos>
+                Luis Fuentes
+            </nombreapellidos>
+            <email>
+                luisfuentes@gmail.com
+            </email>
+        </persona>
+        <fecha>
+            <marcatiempo>
+                04/10/2024 9:22:25
+            </marcatiempo>
+            <fechaincidencia>
+                15/08/2023 11:05:00
+            </fechaincidencia>
+        </fecha>
+        <infoincidencia>
+            <tipoincidencia tipo="tipoincidencia">
+                Equipo (Fallo)
+            </tipoincidencia>
+            <departamento>
+                Oficina 1
+            </departamento>
+            <equipoafectado>
+                Portátil
+            </equipoafectado>
+            <descripcionproblema>
+                El portátil no arranca
+            </descripcionproblema>
+            <imagen>
+            </imagen>
+            <nivelurgencia grado="Urgente">
+                Urgente
+            </nivelurgencia>
+            <accionesprevias>
+                No
+            </accionesprevias>
+        </infoincidencia>
+    </incidencia>
+</incidencias>
